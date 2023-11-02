@@ -7,9 +7,9 @@ import datetime
 import hashlib
 import sqlite3
 
-bot_token = '6399917711:AAGrv42eqMy5NtNgaRdeQURpZ-Jg6Z8a3MM'
+bot_token = '6372783424:AAHmN8RRRtoEQTnwUVUnOh4tB5jTYEsgilU'
 bot = telebot.TeleBot(bot_token)
-ADMIN_ID = 6425545597
+ADMIN_ID = 5032309771
 allowed_users = []
 is_bot_active = True
 
